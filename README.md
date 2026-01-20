@@ -1,7 +1,4 @@
-# ccna-1-introduction-to-networks
-CCNA 1 labs and troubleshooting-focused documentation
-## CCNA 1 – Introduction to Networks
-
+# CCNA 1 – Introduction to Networks
 Real-world skill developed in this repository:
 
 👉 Understand and troubleshoot basic networks, as performed by a junior network technician in real environments.
@@ -37,7 +34,7 @@ Real-world skill developed in this repository:
 
 ### KEY skill
 
-👉 Think in layers and communication flow, not “trial and error”.
+👉 Think in layers and communication flow instead of trial-and-error troubleshooting.
 
 ---
 
