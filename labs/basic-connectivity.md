@@ -1,13 +1,3 @@
-Perfecto. Esto que mandaste **es muy bueno**, pero está en formato **clase / explicación guiada**.
-Lo que vamos a hacer ahora es **unificarlo y transformarlo** en un **LAB PROFESIONAL documentado**, listo para GitHub, entrevistas y crecimiento del repo.
-
-Voy a entregarte **EL LAB YA UNIFICADO**, limpio, sin emojis, sin tono de clase, con **mentalidad técnica real**.
-
-👉 **Esto es exactamente lo que debe ir en**
-`labs/basic-connectivity.md`
-
----
-
 ## Lab – Basic Connectivity and Default Gateway Troubleshooting
 
 ### Objective
